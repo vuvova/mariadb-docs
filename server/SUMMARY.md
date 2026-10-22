@@ -3907,6 +3907,7 @@
       * [Error 4273: Some values were cut while processing %s). Increase %s if you want to avoid the cut](reference/error-codes/mariadb-error-codes-4200-to-4299/e4273.md)
       * [Error 4274: Invalid masked host '%s' for user '%s'](reference/error-codes/mariadb-error-codes-4200-to-4299/e4274.md)
       * [Error 4275: '%s' entry '%s' ignored, the host is not a valid ip/netmask](reference/error-codes/mariadb-error-codes-4200-to-4299/e4275.md)
+      * [Error 4276: This operation leaves replication connection '%s' with an invalid configuration: %s](reference/error-codes/mariadb-error-codes-4200-to-4299/e4276.md)
   * [Client/Server Protocol](reference/clientserver-protocol/README.md)
     * [Protocol Data Types](reference/clientserver-protocol/protocol-data-types.md)
     * [MariaDB Protocol Differences with MySQL](reference/clientserver-protocol/mariadb-protocol-differences-with-mysql.md)
