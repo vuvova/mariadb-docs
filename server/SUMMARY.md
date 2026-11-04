@@ -3913,6 +3913,7 @@
       * [Error 4279: Invalid masked host '%s' for user '%s'](reference/error-codes/mariadb-error-codes-4200-to-4299/e4279.md)
       * [Error 4280: '%s' entry '%s' ignored, the host is not a valid ip/netmask](reference/error-codes/mariadb-error-codes-4200-to-4299/e4280.md)
       * [Error 4281: This operation leaves replication connection '%s' with an invalid configuration: %s](reference/error-codes/mariadb-error-codes-4200-to-4299/e4281.md)
+      * [Error 4282: Cannot set %s within a trigger or stored program](reference/error-codes/mariadb-error-codes-4200-to-4299/e4282.md)
   * [Client/Server Protocol](reference/clientserver-protocol/README.md)
     * [Protocol Data Types](reference/clientserver-protocol/protocol-data-types.md)
     * [MariaDB Protocol Differences with MySQL](reference/clientserver-protocol/mariadb-protocol-differences-with-mysql.md)
